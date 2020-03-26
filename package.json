@@ -1,0 +1,14 @@
+{
+  "name": "ExatioSBot",
+  "version": "1.0.0",
+  "description": "A powerfull Node.JS bot using Discord.JS library",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "keywords": ["discord", "discord.js", "node.js", "exatio"],
+  "author": "Exatio#100",
+  "license": "ISC"
+}

@@ -1,0 +1,94 @@
+{
+
+	"infos": {
+ 		"prefix": "%",
+		"token": "NjAwMDUwNDY0NzY3MjEzNjAx.XnueGg.CSqo9x355sKOGtfMrLmPfRKMxEY",
+		"botName": "Exatio's Bot",
+		"serverName": "Lovania",
+		"botCreator": "Exatio#1001"
+	},
+
+
+	"channels": { 
+
+		"ecrits": {	
+
+			"informations": {
+				"bienvenue": "691668909824147486",
+				"reglement": "691668976710713364",
+				"annonces": "691668995622830091",
+				"sondages": "691669005131448321",
+				"dev-log": "691669029584240651",
+				"spoils": "691669047087071283",
+				"actu-youtube": "691669063360970754",
+				"invites": "691669190956023860"
+			},
+
+			"textuels": {
+				"discussion": "691669300787806310",
+				"suggestions": "691669320161558561",
+				"bots": "691669330504581130",
+				"help": "691669341636132924",
+				"partenariat": "691669356303745044",
+				"candidature": "691669378000748574"
+			},
+
+			"staff": {
+				"annonces": "691669521118789693",
+				"sondages": "691669545076654121",
+				"discussion": "691669564773236766",
+				"idees": "691669575431094342",
+				"bots": "691669587783188531",
+				"questions": "691669598306697226",
+				"logs": "691669608733736961",
+				"logs-tickets": "691669623850139820"
+			},
+
+			"admins": {
+				"discussion": "691669828624449548",
+				"cmd-bot": "691669861734154311"
+			},
+
+			"vocaux": {
+				"pas-de-micro": "691669901538099201"
+			},
+
+			"muted" : {
+				
+				"discussion": "691669969733156994"
+			}
+
+		},
+
+		"vocaux": {
+
+			"staff": {
+				"vocal-staff": "691670022409683095"
+			},
+
+			"admins": {
+				"vocal-admins": "691670059151523901"
+			},
+
+			"vocaux": {
+				"vocal-1": "691670126998847529",
+				"vocal-2": "691670185576366090",
+				"vocal-3": "691670209890877571",
+				"afk": "691667701604679693"
+			},
+
+			"muted": {
+				"vocal-muted": "691670327494705263"
+			}
+
+		}
+
+	},
+
+	"responses": {
+
+		"ping": ["Mon ping est le suivant : ", "Voici mon ping :", "Mmh... j'ai trouvé ce ping : "]
+
+	}
+
+}  
